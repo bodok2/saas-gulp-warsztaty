@@ -1,0 +1,17 @@
+@mixin header-icon {
+	
+	float: left;
+	line-height: 40px;
+	font-size: 2em;
+	margin-right: 10px;
+}
+
+@mixin btn-primary {
+	border: none;
+	background-color: $orange-color;
+	transition: all .3s;
+	padding: 10px 20px;
+	font-weight: 700;
+}
+
+

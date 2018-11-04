@@ -1,0 +1,13 @@
+.yellow {
+  color: #ecd407; }
+
+body {
+  font-family: "Open sans", sans-serif;
+  background-image: url(../img/background.png);
+  background-position: center;
+  background-size: cover;
+  height: 150vh;
+  background-repeat: no-repeat; }
+
+p, h2 {
+  color: white; }
